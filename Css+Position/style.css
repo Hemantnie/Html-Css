@@ -1,0 +1,23 @@
+html{
+    background-color: orange;
+    padding: 10px;
+}
+
+body{
+    background-color: yellow;
+    padding: 10px;
+    margin: 0;
+}
+header{
+    background-color: pink;
+    margin: 10px;
+}
+nav{
+    background-color: pink;
+    margin: 10px;
+}
+footer{
+    background-color: pink;
+    margin: 10px;
+}
+
